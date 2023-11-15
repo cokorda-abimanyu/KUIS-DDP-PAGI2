@@ -1,3 +1,7 @@
+//Cok Gde Abimanyu Pradnyana Putra
+//2301010055
+//Sistem Informasi PAGI2
+
 const prompt = require('prompt-sync')();
 
 let score = 0;
@@ -57,8 +61,6 @@ let soal = [
         "a": 0 
     }
 ];
-    // Tambahkan 3 soal lainnya 
-;
 
 let nama = prompt('Input nama: ');
 
